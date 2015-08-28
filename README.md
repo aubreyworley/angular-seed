@@ -5,5 +5,6 @@
 * Controllers
 * Data Binding
 * Routing
+* Active Classes Based on Routes
 * Templates
 * Bootstrap CDN
