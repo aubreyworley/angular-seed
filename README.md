@@ -1,0 +1,4 @@
+# Angular Seed
+
+* Routing
+* Controllers
